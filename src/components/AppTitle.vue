@@ -14,7 +14,8 @@ export default {
 
 <style scoped>
 h1 {
+  position: absolute;
   font-size: 4rem;
-  color: cornflowerblue;
+  color: goldenrod;
 }
 </style>
